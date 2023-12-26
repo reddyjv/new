@@ -1,6 +1,6 @@
 # Python code to demonstrate naive method
 # to compute factorial
-n = 23
+n = 24
 fact = 1
 
 for i in range(1, n+1):
